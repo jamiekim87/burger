@@ -1,6 +1,7 @@
 # burger
 
-<img src="image1.jpg">
+<img src="./image/image1.jpg">
+
   
 ## Table of Contents
 
