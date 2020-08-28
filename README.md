@@ -21,8 +21,8 @@
 ## Usage 
     The usage of this app is to make a Eat-Da-Burger! restraurant app that lets users input the names of burgers they would like to eat
 
-## license 
-    https://img.shields.io/badge/license-%3CLICENSE_NAME%3E-blue.svg
+## License 
+   https://img.shields.io/badge/license-%3CLICENSE_NAME%3E-blue.svg
     APACHE 2.0
 
 ## Contributing 
