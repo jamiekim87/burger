@@ -1,5 +1,6 @@
 # burger
 
+<img src="image1.jpg">
   
 ## Table of Contents
 
