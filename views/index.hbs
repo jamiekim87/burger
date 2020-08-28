@@ -1,6 +1,6 @@
 <div class="jumbotron">
   <img src="./assets/image/burger.png" class="rounded mx-auto d-block" alt="...">
-  <h1 class="display-5">Burger App</h1>
+  <h1 class="display-4">Burger App</h1>
   <p class="lead">This is a simple application to keep track of burgers, their prices, and whether or not they are ready to be devour.</p>
 </div>
 <div class="container">
@@ -19,7 +19,7 @@
           <label for="cost">Price</label>
           <input type="number" class="form-control" id="cost">
         </div>
-        <button type="submit" id="addGrocery" class="btn btn-primary">Add Burger</button>
+        <button type="submit" id="addBurger" class="btn btn-primary">Add Burger</button>
       </form>
     </div>
   </div>
@@ -27,7 +27,7 @@
   <div class="row">
     <div class="col-md-6">
       <ul id="notPurchased" class="list-group">
-        <h2>Not Purchased</h2>
+        <h2>Devour it!</h2>
         {{#each burgers}}
         {{#unless this.purchased}}
         <li id="{{ this.id }}" class="list-group-item">
@@ -48,7 +48,7 @@
     </div>
     <div class="col-md-6">
       <ul id="purchased" class="list-group">
-        <h2>Purchased</h2>
+        <h2>Devoured</h2>
         {{#each burgers}}
         {{#if this.purchased}}
         <li id="{{ this.id }}" class="list-group-item">
