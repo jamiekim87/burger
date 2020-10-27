@@ -1,6 +1,7 @@
 # Eat-Da-Burger
 Deployed Link:  https://sheltered-escarpment-41762.herokuapp.com/
-![image](https://user-images.githubusercontent.com/64169844/97250926-324f0380-17c4-11eb-95a1-2da7c033ec16.jpg)
+![image1](https://user-images.githubusercontent.com/64169844/97251535-4e9f7000-17c5-11eb-8282-a7bcfc443396.png)
+![image2](https://user-images.githubusercontent.com/64169844/97251540-4fd09d00-17c5-11eb-9362-5519b19b234a.jpg)
 
 
 ## Table of Contents
