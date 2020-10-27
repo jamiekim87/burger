@@ -1,5 +1,4 @@
-# Title 
-  Burger App
+Eat-Da-Burger
 
 ## Table of Contents
 
@@ -23,7 +22,7 @@ The usage of this app is to make a Eat-Da-Burger! restraurant app that lets user
 
 ## License 
 https://img.shields.io/badge/license-%3CLICENSE_NAME%3E-blue.svg
-    APACHE 2.0
+ APACHE 2.0
 
 ## Contributing 
  Jamie and Me
@@ -33,6 +32,7 @@ https://img.shields.io/badge/license-%3CLICENSE_NAME%3E-blue.svg
     
 ## Questions 
 Please ask questions if you have any. Thank you!
+<br>
 Email: Jamiejiyoungkim1004@gmail.com
 GitHub username: jamiekim87
 
