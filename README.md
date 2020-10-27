@@ -24,7 +24,7 @@ First, you need to create a GitHun repo called burger and clone it to your compu
 The usage of this app is to make a Eat-Da-Burger! restraurant app that lets users input the names of burgers they would like to eat
 
 ## License 
-https://img.shields.io/badge/license-%3CLICENSE_NAME%3E-blue.svg
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
  APACHE 2.0
 
 ## Contributing 
